@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# MySQL
+mysql-data/
+
+# Java
+target/
+*.class
+
+# IDE
+.idea/
+.vscode/
