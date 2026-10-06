@@ -2,6 +2,16 @@
 
 A collection of hands-on projects focused on learning and practicing Docker and containerization.
 
+## Contents
+
+- [Django Notes App](#1-django-notes-app)
+- [Java Expense Tracker](#2-java-expense-tracker)
+- [Flask App](#3-flask-app)
+- [Node.js Todo App](#4-nodejs-todo-app)
+- [Simple Java Docker](#5-simple-java-docker)
+- [Docker Skills Practiced](#docker-skills-practiced)
+- [Tools & Technologies](#tools--technologies)
+
 ## Projects
 
 ### 1. Django Notes App
